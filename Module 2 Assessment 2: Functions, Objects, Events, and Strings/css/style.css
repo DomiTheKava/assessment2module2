@@ -1,0 +1,21 @@
+body {
+  background-color: aliceblue;
+}
+
+.carHolder {
+  margin: 10px;
+  background-color: lightblue;
+  border: 3px solid blue;
+  padding: 10px;
+  text-align: center;
+}
+
+.carHolder image {
+  display: block;
+  margin: 0 auto;
+}
+
+.carImg {
+  width: 250px;
+  height: 150px;
+}
